@@ -6,7 +6,7 @@
       <div class="user-details-container2">
         <span class="user-details-text1 textXS">
           Published
-          <span v-html="raw0b0w"></span>
+          <span v-html="raw4u05"></span>
         </span>
         <span class="user-details-text2 textXS">{{ time }}</span>
         <span class="user-details-text3 textXS">ago</span>
@@ -39,7 +39,7 @@ export default {
 
   data() {
     return {
-      raw0b0w: ' ',
+      raw4u05: ' ',
     }
   },
 }

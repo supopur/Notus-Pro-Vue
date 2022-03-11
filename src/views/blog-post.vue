@@ -24,7 +24,7 @@
         </span>
         <span class="blog-post-text04">
           -
-          <span v-html="rawckuz"></span>
+          <span v-html="rawryxk"></span>
         </span>
         <span class="blog-post-text05">Mark Jonson</span>
         <br />
@@ -295,7 +295,7 @@ export default {
 
   data() {
     return {
-      rawckuz: ' ',
+      rawryxk: ' ',
     }
   },
 

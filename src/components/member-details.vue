@@ -12,11 +12,11 @@ export default {
   props: {
     heading11: {
       type: String,
-      default: 'WEB DEVELOPER',
+      default: 'DEVELOPER/SYS ADMIN/CO-OWNER',
     },
     heading1: {
       type: String,
-      default: 'Ryan Tompson',
+      default: 'Qemlokriu',
     },
     image_alt: {
       type: String,
@@ -24,8 +24,7 @@ export default {
     },
     image_src: {
       type: String,
-      default:
-        'https://demos.creative-tim.com/notus-pro-react/static/media/team-1-800x800.fa5a7ac2.jpg',
+      default: '385b2b93-d86f-4539-ba4b-3370a9b7c35f',
     },
   },
 }
